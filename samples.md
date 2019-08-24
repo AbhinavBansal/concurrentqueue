@@ -3,8 +3,7 @@
 Here are some example usage scenarios with sample code. Note that most
 use the simplest version of each available method for demonstration purposes,
 but they can all be adapted to use tokens and/or the corresponding bulk methods for
-extra speed.
-
+extra speed
 
 ## Hello queue
 
